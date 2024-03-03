@@ -42,7 +42,11 @@ Step 3: Explore the Lexical Graph
 This will launch a local web server and provide you with a URL to access the dashboard. Open this URL in your web browser to explore the lexical graph and analyze sentiment propagation results.
 
 ### Graph Model Download
-For those interested in delving deeper into the semantic-syntactic structures we've constructed, you can download the comprehensive graph model from the repository: xxx. This model is essential for researchers and enthusiasts looking to understand the intricate connections that underpin sentiment analysis in various languages.
+For those interested in delving deeper into the semantic-syntactic structures we've constructed, you can download the comprehensive graph model from the repository: 
+
+[Igraph (pickled): hrWac Lexical Graph nouns](https://drive.google.com/file/d/1PyDuq47KNYjo8v-LZdIGttSMq8cAR_yx/view?usp=sharing)
+
+This model is essential for researchers and enthusiasts looking to understand the intricate connections that underpin sentiment analysis in various languages.
 
 ## License
 This project is licensed under the terms of the [LICENSE] file located in the root directory of this repository.
